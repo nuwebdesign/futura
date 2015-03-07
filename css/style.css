@@ -1,0 +1,32 @@
+.logo{
+	padding-bottom: 0.5em;
+}
+.header-top-part{
+  background: #333333;
+	width: 100%;
+	font-family: 'Oswald', sans-serif;
+	padding-top: 0.2em;
+  height: 30px;
+  color: darkorange;
+}
+.phone p{
+  float: left;
+  width: 300px;
+  font-size: 0.8em;
+  padding-top: 3px;
+  padding-left: 3px;
+}
+.phone img{
+  float: left;
+  width: 13px;
+  padding-top: 5px;	
+}
+.socialtop{
+	float: right;
+	width: 300px;
+}
+.socialtop p{
+  text-transform: uppercase;
+  font-size: 0.8em;
+  padding-top: 3px;
+}
