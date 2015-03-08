@@ -2042,7 +2042,6 @@ meta.foundation-mq-topbar {
     transition: none 0 0;
     left: 0 !important; }
     .top-bar-section ul {
-      width: auto;
       height: auto !important;
       display: inline; }
       .top-bar-section ul li {
