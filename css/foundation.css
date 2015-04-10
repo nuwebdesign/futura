@@ -1823,7 +1823,7 @@ meta.foundation-mq-topbar {
     height: 1px;
     width: 100%; }
   .top-bar-section ul li {
-    background-color: rgb(255, 94, 35);
+    background-color: #0D7DA6;
     }
     .top-bar-section ul li > a {
       display: block;
